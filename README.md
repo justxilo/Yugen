@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="YugenAnime Banner" width="100%" />
+  <img src="reference/YUGEN.png" alt="YugenAnime Banner" width="100%" />
 </p>
 
 <h1 align="center">YugenAnime</h1>
