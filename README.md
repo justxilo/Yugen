@@ -102,6 +102,4 @@ cloudflared tunnel run --url http://localhost:4444
 
 ---
 
-## License
 
-MIT
